@@ -1,6 +1,5 @@
 .classpath
 .idea
-.mvn
 .project
 .settings
 target/
